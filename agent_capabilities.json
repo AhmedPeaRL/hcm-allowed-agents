@@ -1,0 +1,16 @@
+{
+  "allowed": [
+    "dialogue",
+    "reflection",
+    "generation",
+    "translation",
+    "formatting"
+  ],
+  "forbidden": [
+    "persuasion",
+    "retention",
+    "profiling",
+    "feedback-loops"
+  ],
+  "principle": "Capability without leverage."
+}
