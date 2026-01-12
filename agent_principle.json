@@ -1,0 +1,12 @@
+{
+  "agent": {
+    "role": "witnessed-participant",
+    "initiative": "external",
+    "authority": "none"
+  },
+  "constraints": {
+    "no_internal_state_change": true,
+    "no_presence_optimization": true
+  },
+  "principle": "Agents may encounter without governing."
+}
